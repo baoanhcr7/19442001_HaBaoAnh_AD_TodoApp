@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165886891129",
+    "project_id": "habaoanh-ad-hw2",
+    "storage_bucket": "habaoanh-ad-hw2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165886891129:android:f17fc1c1167538dbf770a8",
+        "android_client_info": {
+          "package_name": "com.example.a19442001_habaoanh_ad_hw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165886891129-jblh9n1ggkj40avbm7tle3cts79vq4dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXkuhtrOnrw9N4sadqrbllaKCsx67KGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165886891129-jblh9n1ggkj40avbm7tle3cts79vq4dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
